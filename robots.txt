@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /50
+Disallow: /50.html
+Disallow: /50/
